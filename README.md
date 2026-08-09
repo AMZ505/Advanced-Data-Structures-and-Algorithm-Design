@@ -1,4 +1,6 @@
-# CS340: Algorithms and Data Structures 
+# CS340: Algorithms and Data Structures (Summer 2022)
+
+⚠️ **Note:** The files and materials contained in this repository belong specifically to the **Summer 2022** iteration of the course.
 
 Welcome to the course repository for **CS340 (Algorithms and Data Structures)** at the University of Regina. This course covers advanced data structures, algorithm analysis, and design paradigms.
 
@@ -34,3 +36,5 @@ Welcome to the course repository for **CS340 (Algorithms and Data Structures)** 
 * **Late Policy:** Late assignment submissions are not accepted (0 points).
 * **Academic Integrity:** Discussion is allowed, but reading, copying, or exchanging code is strictly forbidden.
 * **Attendance:** Mandatory during scheduled lecture hours.
+```
+
